@@ -1,1 +1,1 @@
-PASTE-YOUR-DEPLOYED-PAPER-URL-HERE
+https://flyrank.ai/papers/content-refresh-prioritization
